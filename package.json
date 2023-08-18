@@ -1,8 +1,9 @@
 {
   "name": "pneumonoultramicroscopicsilicovolcanoconiosis.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Because I can: https://en.wikipedia.org/wiki/Pneumonoultramicroscopicsilicovolcanoconiosis",
   "main": "index.js",
+  "repository": "nicholasgriffintn/pneumonoultramicroscopicsilicovolcanoconiosis",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
